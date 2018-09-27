@@ -4,8 +4,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
 <g>
-	<circle opacity="0.25" fill="#E1134F" cx="25.294" cy="24.71" r="25"/>
+	<circle opacity="0.25" fill="#E1134F" enable-background="new    " cx="25.294" cy="24.71" r="25"/>
 	<circle fill="#E1134F" cx="25.294" cy="24.71" r="17.919"/>
-	<text transform="matrix(1 0 0 1 15.4043 34.4004)" fill="#FFFFFF" font-family="'InterstateAE-Bold'" font-size="28">D</text>
+	<g enable-background="new    ">
+		<path fill="#FFFFFF" d="M23.776,34.4h-5.852v-19.6h6.132c5.6,0,9.745,2.632,9.745,9.8C33.801,31.488,28.816,34.4,23.776,34.4z
+			 M23.916,18.608h-2.072v11.984h1.932c4.116,0,5.991-2.408,5.991-5.992C29.768,20.597,28.061,18.608,23.916,18.608z"/>
+	</g>
 </g>
 </svg>
